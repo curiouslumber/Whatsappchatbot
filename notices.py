@@ -1,7 +1,7 @@
 k = '''
 Notices: 
 Importants: Holiday Tomorrow
-Reminders: Yeet
+Reminders: 
 Upcoming Events:
 '''
 
